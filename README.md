@@ -1,0 +1,2 @@
+# OpenFOAM_template
+OpenFOAMでstlファイルをメッシュにした上でシミュレーションを行う場合の最小テンプレート。
